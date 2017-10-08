@@ -1,6 +1,0 @@
-{
-  "scripts": {
-      "serve": "katatema serve",
-      "build": "katatema build"
-  }
-}
