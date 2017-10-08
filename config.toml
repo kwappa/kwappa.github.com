@@ -1,0 +1,4 @@
+baseURL = "http://kwappa.github.io/"
+languageCode = "ja"
+title = "kwappa on the net"
+publishDir = "docs"
