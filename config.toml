@@ -1,4 +1,12 @@
-baseURL = "http://kwappa.github.io/"
+baseURL = "https://kwappa.github.io/"
 languageCode = "ja"
 title = "kwappa on the net"
 publishDir = "docs"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-0d"
+  copyright  = "SHIOYA, Hiromu"
+  description = """
+  
+"""
