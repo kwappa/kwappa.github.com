@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on kwappa on the net</title>
-    <link>http://kwappa.github.io/categories/</link>
+    <link>https://kwappa.github.io/categories/</link>
     <description>Recent content in Categories on kwappa on the net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
+    <copyright>SHIOYA, Hiromu</copyright>
     
-	<atom:link href="http://kwappa.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kwappa.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
