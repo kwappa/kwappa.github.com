@@ -10,3 +10,4 @@ theme = "hyde"
   description = """
   
 """
+  googleAnalytics = "UA-107867268-1"
