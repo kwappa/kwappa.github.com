@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>SHIOYA, Hiromu</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 11:42:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 14:41:17 +0900</lastBuildDate>
     
 	<atom:link href="https://kwappa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Works 2017</title>
+      <link>https://kwappa.github.io/logs/works_2017/</link>
+      <pubDate>Sun, 15 Oct 2017 14:41:17 +0900</pubDate>
+      
+      <guid>https://kwappa.github.io/logs/works_2017/</guid>
+      <description>2017年の活動記録です。 9&amp;frasl;16 Event: トップエンジニアたちの最先端キャリアに触れて学ぶ☆CodeIQ感謝祭 #codeiq39にて、「 Title 採用担当者が読</description>
+    </item>
     
     <item>
       <title>職務経歴書</title>
