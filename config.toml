@@ -3,6 +3,14 @@ languageCode = "ja"
 title = "kwappa on the net"
 publishDir = "docs"
 theme = "hyde"
+hasCJKLanguage = true
+
+[menu]
+  main = [
+    { name = "Logs", url = "/logs" },
+    { name = "Tweets", url = "https://kwappa.github.io/tweets" },
+  ]
+
 
 [params]
   themeColor = "theme-base-0d"
