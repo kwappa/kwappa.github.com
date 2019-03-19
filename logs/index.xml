@@ -6,10 +6,19 @@
     <description>Recent content in Logs on kwappa on the net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Oct 2017 14:41:17 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 12:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://kwappa.github.io/logs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>職務経歴書</title>
+      <link>https://kwappa.github.io/logs/resume/</link>
+      <pubDate>Tue, 19 Mar 2019 12:00:00 +0900</pubDate>
+      
+      <guid>https://kwappa.github.io/logs/resume/</guid>
+      <description>職務経歴の概要です。現職以外は会社名を伏せていますが特に秘匿情報ではありません。 個人データ 氏名 : 塩谷 啓 (SHIOYA, Hiromu) ID : kwappa 各種URL : https://kwappa.github.io 職務経歴（概要</description>
+    </item>
     
     <item>
       <title>Works 2017</title>
@@ -18,15 +27,6 @@
       
       <guid>https://kwappa.github.io/logs/works_2017/</guid>
       <description>2017年の活動記録です。 9&amp;frasl;16 Event: トップエンジニアたちの最先端キャリアに触れて学ぶ☆CodeIQ感謝祭 #codeiq39 Title 採用担当者が読みたくてたまらなくなる職</description>
-    </item>
-    
-    <item>
-      <title>職務経歴書</title>
-      <link>https://kwappa.github.io/logs/resume/</link>
-      <pubDate>Sun, 15 Oct 2017 11:42:02 +0900</pubDate>
-      
-      <guid>https://kwappa.github.io/logs/resume/</guid>
-      <description>職務経歴の概要です。現職以外は会社名を伏せていますが特に秘匿情報ではありません。 個人データ 氏名 : 塩谷 啓 (SHIOYA, Hiromu) ID : kwappa 各種URL : https://kwappa.github.io 職務経歴（概要</description>
     </item>
     
   </channel>
