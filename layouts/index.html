@@ -35,7 +35,9 @@
 </div>
 
 <div class="posts">
-{{ range .Data.Pages -}}
+
+{{ $log := .Site.GetPage "/logs" }}
+{{ range first 1 $log.Data.Pages -}}
 <div class="post">
   <h2>Logs</h2>
   <h3 class="post-title">
@@ -50,5 +52,10 @@
   {{ end }}
 </div>
 {{- end }}
+
+<div style="text-align: right;">
+  <a ref="/logs">all logs</a>
+</div>
+
 </div>
 {{- end }}
