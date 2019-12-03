@@ -100,6 +100,13 @@ slug: "resume"
 * 職務
     * [prismatix](https://prismatix.jp)開発チームの生産性を向上するためのすべてのこと
         * 採用、技術広報、チームビルディングなど
+    * アウトプット
+        * [Devevlopers.IO](https://dev.classmethod.jp/) （ブログ）執筆
+            * 著者ページ : https://dev.classmethod.jp/author/shioya-hiromu/
+        * Developers.IO（イベント）登壇
+            * [Developers.IO 2019 Tokyo](https://dev.classmethod.jp/news/developers-io-2019-tokyo/)
+                * 「3つの「Re」〜ソフトウェアの信頼性を高めるためにぼくたちができること〜」
+                    * https://dev.classmethod.jp/etc/2019-devio-tokyo-what-we-can-do-to-improve-the-reliability-of-the-software/
 
 ## 職務経歴 (前職以前)
 
@@ -141,7 +148,7 @@ slug: "resume"
     * 社内のエンジニアが週に1度集まってプレゼンテーションを行う会の運営
 * 社内向け開発ツールの選定・導入・運用
 
-### クックパッド株式会社 (2013/02〜2015/08)
+### クックパッド株式会社 (2013/02〜2014/08)
 
 * 日本最大級のレシピサイトの開発・運用
     * 有料会員向け新機能の企画・開発
