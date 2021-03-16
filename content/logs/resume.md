@@ -1,6 +1,6 @@
 ---
 title: "職務経歴書"
-date: 2019-09-01T12:00:00+09:00
+date: 2021-03-15T10:00:00+09:00
 slug: "resume"
 ---
 
@@ -10,7 +10,7 @@ slug: "resume"
 
 * 氏名 : 塩谷 啓 (SHIOYA, Hiromu)
 * ID : `kwappa`
-* Web : [http://www.kwappa.net](http://www.kwappa.net) / [https://kwappa.github.io](https://kwappa.github.io)
+* Web : [https://kwappa.net](https://kwappa.net) / [https://kwappa.github.io](https://kwappa.github.io)
 
 ## 職務経歴（概要）
 
@@ -45,18 +45,17 @@ slug: "resume"
 
 社外のIT勉強会、カンファレンスなどにおいてプレゼンテーションを行っている。
 
-* 「実践的アウトプット入門 なぜ？なにを？どうやって？」
-    * https://speakerdeck.com/kwappa/the-introduction-to-practical-output
-    * 2018/10/09 【エンジニアのキャリアアップを語る】日々のアウトプットが変える！あなたのエンジニア・ライフ
-        * https://forkwell.connpass.com/event/102045/
-* 「採用担当者が読みたくてたまらなくなる職務経歴書を書くために絶対に外せない3つのポイント」
-    * https://speakerdeck.com/kwappa/three-points-to-write-resume-that-recruiters-will-want-to-read
-    * 2017/09/16 学びの秋！エンジニア最先端に触れて学ぶITフェス by CodeIQ
-        *  https://atnd.org/events/89912
-* 「ロックスターになれないエンジニアたちに贈る生存戦略」
-    * https://speakerdeck.com/kwappa/survival-strategies-for-engineers-who-can-not-be-a-rock-star
-    * 2016/10/08 Forkwell Meetup - この先生きのこるエンジニアとは
-        * https://forkwell.connpass.com/event/39728/
+* 「50代エンジニアのキャリアストーリー～将来のエンジニアライフを考える～」
+    * 2021/02/19
+    * [ウェビナーレポート（前編）](https://engineer-lab.findy-code.io/over50-1)
+    * [ウェビナーレポート（後編）](https://engineer-lab.findy-code.io/over50-2)
+    * [登壇記事](https://randd.kwappa.net/2020/02/12/think-about-the-careers-of-engineers-in-their-50s-and-above/)
+* 「プロフェッショナルなエンジニアのとしてのコミュ力概論」（[Developers.IO 2020 CONNECT](https://classmethod.jp/m/devio_2020_connect/)）
+    * 2020/06/30
+    * [「プロフェッショナルなエンジニアのとしてのコミュ力概論」サポート記事 #devio2020 | DevelopersIO](https://dev.classmethod.jp/articles/overview-of-communication-skills-for-professional-engineers/)
+* 「礼節から育てるチームの健康と信頼性」（[Developers Summit 2020](https://event.shoeisha.jp/devsumi/20200213)）
+    * 2020/02/13
+    * [デブサミ2020で「礼節から育てるチームの健康と信頼性」という話をしました #devsumi #devsumic | DevelopersIO](https://dev.classmethod.jp/articles/devsumi-2020-13-6-c-kwappa/)
 
 その他、Lightning Talksを中心に多数。
 
