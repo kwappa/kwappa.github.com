@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://kwappa.github.io/</loc>
-    <lastmod>2019-09-01T12:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-15T10:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://kwappa.github.io/logs/</loc>
-    <lastmod>2019-09-01T12:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-15T10:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://kwappa.github.io/logs/resume/</loc>
-    <lastmod>2019-09-01T12:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-15T10:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://kwappa.github.io/logs/works_2017/</loc>
     <lastmod>2017-10-15T14:41:17+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kwappa.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://kwappa.github.io/tags/</loc>
   </url>
-  
 </urlset>
