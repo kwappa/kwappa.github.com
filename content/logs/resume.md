@@ -1,6 +1,6 @@
 ---
 title: "職務経歴書"
-date: 2021-03-15T10:00:00+09:00
+date: 2021-10-16T10:00:00+09:00
 slug: "resume"
 ---
 
@@ -45,6 +45,9 @@ slug: "resume"
 
 社外のIT勉強会、カンファレンスなどにおいてプレゼンテーションを行っている。
 
+* 「リモートワーク時代のコミュニケーションデザイン : コーチングに学ぶ1on1の基礎」（[Developers.IO 2021 Decade](https://classmethod.jp/m/devio-2021-decade/)）
+    * 2021/10/13
+    * [「リモートワーク時代のコミュニケーションデザイン : コーチングに学ぶ1on1の基礎」という話をしました #devio2021 | DevelopersIO](https://dev.classmethod.jp/articles/devio-2021-decade-kwappa/)
 * 「50代エンジニアのキャリアストーリー～将来のエンジニアライフを考える～」
     * 2021/02/19
     * [ウェビナーレポート（前編）](https://engineer-lab.findy-code.io/over50-1)
@@ -93,19 +96,24 @@ slug: "resume"
 
 ### クラスメソッド株式会社 (2019-09〜)
 
-#### 事業開発部
-
-* 職位 : チームリライアビリティエンジニア (Team Reliability Engineer)
-* 職務
-    * [prismatix](https://prismatix.jp)開発チームの生産性を向上するためのすべてのこと
+#### prismatix事業部（2021/07〜）
+* 事業開発部より部署名変更
+* 職位
+    * エンジニアリングマネージャー
+        * [prismatix](https://prismatix.jp)開発チームの生産性を向上するためのすべてのこと
         * 採用、技術広報、チームビルディングなど
-    * アウトプット
-        * [Devevlopers.IO](https://dev.classmethod.jp/) （ブログ）執筆
-            * 著者ページ : https://dev.classmethod.jp/author/shioya-hiromu/
-        * Developers.IO（イベント）登壇
-            * [Developers.IO 2019 Tokyo](https://dev.classmethod.jp/news/developers-io-2019-tokyo/)
-                * 「3つの「Re」〜ソフトウェアの信頼性を高めるためにぼくたちができること〜」
-                    * https://dev.classmethod.jp/etc/2019-devio-tokyo-what-we-can-do-to-improve-the-reliability-of-the-software/
+    * Devチーム マネージャー
+        * Devチーム（サービス開発 / 保守担当）のピープルマネジメント
+        * 新任プロジェクトマネージャーのサポート
+
+#### 事業開発部 (2019/09〜2021/06)
+
+* 職位
+    * チームリライアビリティエンジニア (Team Reliability Engineer)
+        * [prismatix](https://prismatix.jp)開発チームの生産性を向上するためのすべてのこと
+            * 採用、技術広報、チームビルディングなど
+    * Opsチーム マネージャー（2019/12〜2021/06）
+        * Opsチーム（インフラ / 運用担当）のタスク管理、チーム間調整、ピープルマネジメント
 
 ## 職務経歴 (前職以前)
 
